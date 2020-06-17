@@ -1,5 +1,11 @@
 # Example Repository
-This is a sample repo, hello people!
+Document declaration tag
+<html>
+ <head>
+ Document header related tags
+ </head>
+ <body>
+ Document body related tags
+ </body>
+</html>
 
-Learning git hub
-Hi I have made changed in it
