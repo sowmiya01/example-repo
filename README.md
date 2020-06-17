@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Horizontal Line Example</title>
+<title>Sample source code</title>
 </head>
 <body>
 <p>This is paragraph one and should be on top</p>
