@@ -1,4 +1,4 @@
- pipeline {
+pipeline {
         agent any
         stages {
             stage('Build Application') {
@@ -11,7 +11,7 @@
                         archiveArtifacts artifacts: '**/*.war'
                     }
                 }
-            }
+       }
             stage('Deploy in Staging Environment'){
                 steps{
                     build job: 'Deploy_Code_Tomcat_Stage'
